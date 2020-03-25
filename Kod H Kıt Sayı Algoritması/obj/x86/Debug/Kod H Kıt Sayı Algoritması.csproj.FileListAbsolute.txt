@@ -1,0 +1,14 @@
+C:\Users\mrt_b\Desktop\Kod H Kıt Sayı Algoritması\Kod H Kıt Sayı Algoritması\bin\Debug\Kod H Kıt Sayı Algoritması.exe
+C:\Users\mrt_b\Desktop\Kod H Kıt Sayı Algoritması\Kod H Kıt Sayı Algoritması\bin\Debug\Kod H Kıt Sayı Algoritması.pdb
+C:\Users\mrt_b\Desktop\Kod H Kıt Sayı Algoritması\Kod H Kıt Sayı Algoritması\obj\x86\Debug\Kod_H_Kıt_Sayı_Algoritması.Form1.resources
+C:\Users\mrt_b\Desktop\Kod H Kıt Sayı Algoritması\Kod H Kıt Sayı Algoritması\obj\x86\Debug\Kod_H_Kıt_Sayı_Algoritması.Properties.Resources.resources
+C:\Users\mrt_b\Desktop\Kod H Kıt Sayı Algoritması\Kod H Kıt Sayı Algoritması\obj\x86\Debug\Kod H Kıt Sayı Algoritması.csproj.GenerateResource.Cache
+C:\Users\mrt_b\Desktop\Kod H Kıt Sayı Algoritması\Kod H Kıt Sayı Algoritması\obj\x86\Debug\Kod H Kıt Sayı Algoritması.exe
+C:\Users\mrt_b\Desktop\Kod H Kıt Sayı Algoritması\Kod H Kıt Sayı Algoritması\obj\x86\Debug\Kod H Kıt Sayı Algoritması.pdb
+E:\03 - Yazılım\05 - Büyük Projeler\24 Kıt Sayı Algoritması\Kod H Kıt Sayı Algoritması\obj\x86\Debug\Kod H Kıt Sayı Algoritması.exe
+E:\03 - Yazılım\05 - Büyük Projeler\24 Kıt Sayı Algoritması\Kod H Kıt Sayı Algoritması\obj\x86\Debug\Kod H Kıt Sayı Algoritması.pdb
+E:\03 - Yazılım\05 - Büyük Projeler\24 Kıt Sayı Algoritması\Kod H Kıt Sayı Algoritması\bin\Debug\Kod H Kıt Sayı Algoritması.exe
+E:\03 - Yazılım\05 - Büyük Projeler\24 Kıt Sayı Algoritması\Kod H Kıt Sayı Algoritması\bin\Debug\Kod H Kıt Sayı Algoritması.pdb
+E:\03 - Yazılım\05 - Büyük Projeler\24 Kıt Sayı Algoritması\Kod H Kıt Sayı Algoritması\obj\x86\Debug\Kod_H_Kıt_Sayı_Algoritması.Form1.resources
+E:\03 - Yazılım\05 - Büyük Projeler\24 Kıt Sayı Algoritması\Kod H Kıt Sayı Algoritması\obj\x86\Debug\Kod_H_Kıt_Sayı_Algoritması.Properties.Resources.resources
+E:\03 - Yazılım\05 - Büyük Projeler\24 Kıt Sayı Algoritması\Kod H Kıt Sayı Algoritması\obj\x86\Debug\Kod H Kıt Sayı Algoritması.csproj.GenerateResource.Cache
